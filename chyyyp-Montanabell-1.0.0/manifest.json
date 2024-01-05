@@ -1,0 +1,10 @@
+{
+    "name": "MontanaBell_Sound",
+    "version_number": "1.0.0",
+    "website_url": "https://chyyyp.de/twitch",
+    "description": "Changes the bell ring sound effect to german twitch streamer Montanablack88 saying ''Bing Bong''!",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"Clementinise-CustomSounds-2.2.0"
+    ]
+}
